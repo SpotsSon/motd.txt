@@ -1,3 +1,7 @@
-TEST
+- Version Checker Fixed
+
+- Added Staff Board
+
+- Much More Soon
 
 -Spots Son/Creator/Owner
