@@ -1,7 +1,3 @@
-- Version Checker Fixed
-
-- Added Staff Board
-
-- Much More Soon
+- Colliders Fixed
 
 -Spots Son/Creator/Owner
